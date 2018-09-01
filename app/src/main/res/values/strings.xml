@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practica3</string>
+    <string name="firstTextView">1</string>
+    <string name="thirdTextView">3</string>
+    <string name="fourthTextView">1</string>
+    <string name="secondTextView">2</string>
+    <string name="fifthTextView">2</string>
+    <string name="sixthTextView">3</string>
+    <string name="seventhTextView">1</string>
+    <string name="eightTexView">2</string>
+    <string name="ninth">3</string>
+</resources>
